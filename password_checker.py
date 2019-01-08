@@ -1,5 +1,5 @@
 def lengthCheck(password):
-    if len(password) >= 8:  #check password length greater than equal to 10
+    if len(password) >= 8:  #check password length greater than equal to 8
         return True
     else:
         return False
