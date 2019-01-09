@@ -58,7 +58,7 @@ while not flag:
 
     if not Uppercase(password):
        flag = False
-       print("Password does not must contain uppercase letter")
+       print("Password does not contain uppercase letter")
     else :
         strength += 1
     if flag:
